@@ -1,0 +1,9 @@
+{
+    "name": "presign-lambda",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+      "aws-sdk": "^2.1350.0"
+    }
+  }
+  
